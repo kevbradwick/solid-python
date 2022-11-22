@@ -4,6 +4,8 @@ A project that demonstrates how to implement SOLID principles using Python.
 
 ## Solid
 
+| - | Principle |
+| --- | --- |
 | S | [Single responsibility](./solid/single_responsibility.py) |
 | O | Open/Closed |
 | L | Liskov substitution |
